@@ -1,0 +1,14 @@
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        string message = "مرحبًا بك في العالم!";
+
+        Console.WriteLine(message);
+
+        // انتظر حتى يتم الضغط على مفتاح للخروج
+        Console.ReadLine();
+    }
+}
